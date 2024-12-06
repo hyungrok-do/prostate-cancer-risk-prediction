@@ -1,1 +1,6 @@
 streamlit
+torch==1.13.0
+numpy==1.26.4
+fairlearn==0.11.0
+lifelines==0.30.0
+matplotlib==3.9.2
